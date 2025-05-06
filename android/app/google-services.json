@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59776412564",
+    "project_id": "apping-28fe7",
+    "storage_bucket": "apping-28fe7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59776412564:android:aaa3062da8dceefbf3fd81",
+        "android_client_info": {
+          "package_name": "com.example.apping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGnDSLfp6J2qBY50gWvHcFoLkF5ykSOgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
